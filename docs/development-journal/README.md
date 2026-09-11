@@ -34,3 +34,4 @@ If an active pull request already contains the work being documented, its journa
 ## Journal index
 
 - [2026-09-09 — Project foundation](entries/2026-09-09-project-foundation.md)
+- [2026-09-09 — System context and quality baseline](entries/2026-09-09-system-context-quality-baseline.md)
